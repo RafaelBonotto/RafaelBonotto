@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-.NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
-  <img align="center" alt="Rafa-.EFCore" height="50" width="60" src="https://miro.medium.com/max/1182/1*4HIU0YdDkj0dmGySVC5D_g.png">   
+  <img align="center" alt="Rafa-.EFCore" height="50" width="60" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png.webp">   
   <img align="center" alt="Rafa-Mysqlheight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
