@@ -12,10 +12,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-.NET" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
-  <img align="center" alt="Rafa-.EFCore" height="50" width="60" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png.webp">   
+  <img align="center" alt="Rafa-.EFCore" height="50" width="60" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/12/ef-core-featured.png.webp">  
+  <img align="center" alt="Rafa-Dapper" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOAHNwdvs_7vRhE8ch2562NI7H73Bq-aociq0V-AHo_OY-SBrjds64my7A_WV6fmVCgE&usqp=CAU">
   <img align="center" alt="Rafa-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Rafa-Dapper" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOAHNwdvs_7vRhE8ch2562NI7H73Bq-aociq0V-AHo_OY-SBrjds64my7A_WV6fmVCgE&usqp=CAU">  
+  <img align="center" alt="Rafa-Oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">    
 </div>
   
   ##
